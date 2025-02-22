@@ -1,0 +1,2 @@
+Zombie Shooter Game 🧟‍♂️🎮
+A top-down shooting game built with C# Windows Forms in Visual Studio. This project showcases Object-Oriented Programming (OOP) principles, dynamic game mechanics, and AI-controlled zombies.

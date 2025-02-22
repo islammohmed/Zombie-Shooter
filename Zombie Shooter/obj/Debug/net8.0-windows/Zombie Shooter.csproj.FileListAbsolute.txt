@@ -1,0 +1,18 @@
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie_Shooter.Form1.resources
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie_Shooter.Properties.Resources.resources
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.csproj.GenerateResource.cache
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.AssemblyInfoInputs.cache
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.AssemblyInfo.cs
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Properties\Resources\left.png
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Zombie Shooter.exe
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Zombie Shooter.deps.json
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Zombie Shooter.runtimeconfig.json
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Zombie Shooter.dll
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\bin\Debug\net8.0-windows\Zombie Shooter.pdb
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.dll
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\refint\Zombie Shooter.dll
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.pdb
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\Zombie Shooter.genruntimeconfig.cache
+D:\ITI\C#\Projects\Zombie Shooter\Zombie Shooter\Zombie Shooter\obj\Debug\net8.0-windows\ref\Zombie Shooter.dll
